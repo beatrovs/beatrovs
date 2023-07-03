@@ -2,7 +2,7 @@
 ### My name is (meu nome é) Beatriz Cardozo
 
 - 🧑🏾‍💻 I’m currently working on (atualmente trabalho como): Junior Backend Developer 
-- 📓 I’m currently learning (atualmente estou aprendendo): HTML5 - CSS - JS - Python  - MySQL
+- 📓 I’m currently learning (atualmente estou aprendendo): HTML5 - CSS - JS - Python  - MySQL - C
 - ❓ Ask me about (pergunte me sobre): Hardwares - Softwares - History (História)
 ##
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatriz-cardozo/)
